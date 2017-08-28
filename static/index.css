@@ -1,0 +1,29 @@
+/**/
+
+.header > .container {
+	border-width:1px;
+	border-style:solid;
+}
+.header ul > li, .nav ul > li {
+	float:left;
+	
+	
+}
+
+.nav > .container {
+	background-color:green;
+}
+
+.stickynav {
+	position:sticky;
+    top:0px;
+	z-index:100;
+}
+
+table > .pvtUi {
+	margin-right: 2.5rem;
+}
+
+table {
+	max-width:100%;
+}
